@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Orderly Trading Application",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "false",
-  "VITE_ENABLED_MENUS": "Trading,Vaults",
+  "VITE_ENABLED_MENUS": "Trading,Vaults,Leaderboard,Points,Rewards,Portfolio",
   "VITE_CUSTOM_MENUS": "Issue Report, https://forms.gle/zsLTep2rMq2hXPK89",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
